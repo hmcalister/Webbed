@@ -4,7 +4,7 @@
 
 #### Running the example
 
-Simply `git clone` this template to get started. Run `go build .` to build the project for the first time, then run the executable to show the example frontend, served embedded from the Go binary. 
+Simply `git clone` this template, cd into the `frontend` directory and run `npm install` to get the node dependencies. From the root directory, run `go build .` to build the project for the first time, then run the executable to show the example frontend, served embedded from the Go binary. 
 
 #### Developing from the template
 
